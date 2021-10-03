@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @strumy
+- 👀 I’m interested in Software development, PHP/Laravel, Python/Django, C#/.Net, SQL, Angular, Big Data, Hadoop and Cloud Computing
+- 🌱 I’m currently learning Angular.
+- 💞️ I’m looking to collaborate on Hadoop and Cloud Computing
+- 📫 How to reach me: Email: syedatasneemrumy@gmail.com
+
+<!---
+strumy/strumy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
